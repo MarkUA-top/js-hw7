@@ -14,9 +14,7 @@ console.log(d);
 
 
 const f = [3, 5, 8, 10, 1];
-let g = 0;
 for (let i = 0; i < f.length; i++) {
-    g +=  f[i];
     console.log(f[i]);
 }
 
